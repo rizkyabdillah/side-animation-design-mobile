@@ -1,0 +1,254 @@
+[
+    {
+        "merged": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/build/intermediates/res/merged/debug/drawable-xxhdpi_jeruk.png.flat",
+        "source": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/src/main/res/drawable-xxhdpi/jeruk.png"
+    },
+    {
+        "merged": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/build/intermediates/res/merged/debug/drawable-hdpi_jeruk.png.flat",
+        "source": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/src/main/res/drawable-hdpi/jeruk.png"
+    },
+    {
+        "merged": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/build/intermediates/res/merged/debug/drawable-hdpi_telur.png.flat",
+        "source": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/src/main/res/drawable-hdpi/telur.png"
+    },
+    {
+        "merged": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/build/intermediates/res/merged/debug/drawable-mdpi_bunga.png.flat",
+        "source": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/src/main/res/drawable-mdpi/bunga.png"
+    },
+    {
+        "merged": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/build/intermediates/res/merged/debug/drawable-xhdpi_bunga.png.flat",
+        "source": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/src/main/res/drawable-xhdpi/bunga.png"
+    },
+    {
+        "merged": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_telur.png.flat",
+        "source": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/src/main/res/drawable-xxxhdpi/telur.png"
+    },
+    {
+        "merged": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/build/intermediates/res/merged/debug/drawable-xxhdpi_user.png.flat",
+        "source": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/src/main/res/drawable-xxhdpi/user.png"
+    },
+    {
+        "merged": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/build/intermediates/res/merged/debug/drawable-hdpi_udang.png.flat",
+        "source": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/src/main/res/drawable-hdpi/udang.png"
+    },
+    {
+        "merged": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_jamur.png.flat",
+        "source": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/src/main/res/drawable-xxxhdpi/jamur.png"
+    },
+    {
+        "merged": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/build/intermediates/res/merged/debug/drawable-mdpi_kacang.png.flat",
+        "source": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/src/main/res/drawable-mdpi/kacang.png"
+    },
+    {
+        "merged": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/build/intermediates/res/merged/debug/drawable-hdpi_kacang.png.flat",
+        "source": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/src/main/res/drawable-hdpi/kacang.png"
+    },
+    {
+        "merged": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_jeruk.png.flat",
+        "source": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/src/main/res/drawable-xxxhdpi/jeruk.png"
+    },
+    {
+        "merged": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_kacang.png.flat",
+        "source": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/src/main/res/drawable-xxxhdpi/kacang.png"
+    },
+    {
+        "merged": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/build/intermediates/res/merged/debug/drawable-xxhdpi_udang.png.flat",
+        "source": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/src/main/res/drawable-xxhdpi/udang.png"
+    },
+    {
+        "merged": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_keju.png.flat",
+        "source": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/src/main/res/drawable-xxxhdpi/keju.png"
+    },
+    {
+        "merged": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/build/intermediates/res/merged/debug/anim_fromtop.xml.flat",
+        "source": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/src/main/res/anim/fromtop.xml"
+    },
+    {
+        "merged": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/build/intermediates/res/merged/debug/drawable-hdpi_susu.png.flat",
+        "source": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/src/main/res/drawable-hdpi/susu.png"
+    },
+    {
+        "merged": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/build/intermediates/res/merged/debug/drawable-xxhdpi_keju.png.flat",
+        "source": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/src/main/res/drawable-xxhdpi/keju.png"
+    },
+    {
+        "merged": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/build/intermediates/res/merged/debug/drawable-xhdpi_keju.png.flat",
+        "source": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/src/main/res/drawable-xhdpi/keju.png"
+    },
+    {
+        "merged": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/build/intermediates/res/merged/debug/drawable-mdpi_udang.png.flat",
+        "source": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/src/main/res/drawable-mdpi/udang.png"
+    },
+    {
+        "merged": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/build/intermediates/res/merged/debug/anim_frombottom.xml.flat",
+        "source": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/src/main/res/anim/frombottom.xml"
+    },
+    {
+        "merged": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/build/intermediates/res/merged/debug/drawable-mdpi_telur.png.flat",
+        "source": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/src/main/res/drawable-mdpi/telur.png"
+    },
+    {
+        "merged": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/build/intermediates/res/merged/debug/drawable-mdpi_susu.png.flat",
+        "source": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/src/main/res/drawable-mdpi/susu.png"
+    },
+    {
+        "merged": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/build/intermediates/res/merged/debug/drawable-hdpi_user.png.flat",
+        "source": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/src/main/res/drawable-hdpi/user.png"
+    },
+    {
+        "merged": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/build/intermediates/res/merged/debug/drawable_bgbtnmenu.xml.flat",
+        "source": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/src/main/res/drawable/bgbtnmenu.xml"
+    },
+    {
+        "merged": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/build/intermediates/res/merged/debug/drawable-xhdpi_udang.png.flat",
+        "source": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/src/main/res/drawable-xhdpi/udang.png"
+    },
+    {
+        "merged": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/build/intermediates/res/merged/debug/drawable-mdpi_user.png.flat",
+        "source": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/src/main/res/drawable-mdpi/user.png"
+    },
+    {
+        "merged": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/build/intermediates/res/merged/debug/drawable-xhdpi_kacang.png.flat",
+        "source": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/src/main/res/drawable-xhdpi/kacang.png"
+    },
+    {
+        "merged": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/build/intermediates/res/merged/debug/drawable-mdpi_keju.png.flat",
+        "source": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/src/main/res/drawable-mdpi/keju.png"
+    },
+    {
+        "merged": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/build/intermediates/res/merged/debug/drawable-xhdpi_jeruk.png.flat",
+        "source": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/src/main/res/drawable-xhdpi/jeruk.png"
+    },
+    {
+        "merged": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/build/intermediates/res/merged/debug/drawable-xhdpi_susu.png.flat",
+        "source": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/src/main/res/drawable-xhdpi/susu.png"
+    },
+    {
+        "merged": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/build/intermediates/res/merged/debug/drawable-xxhdpi_bunga.png.flat",
+        "source": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/src/main/res/drawable-xxhdpi/bunga.png"
+    },
+    {
+        "merged": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_susu.png.flat",
+        "source": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/src/main/res/drawable-xxxhdpi/susu.png"
+    },
+    {
+        "merged": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_bunga.png.flat",
+        "source": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/src/main/res/drawable-xxxhdpi/bunga.png"
+    },
+    {
+        "merged": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/build/intermediates/res/merged/debug/drawable-xhdpi_user.png.flat",
+        "source": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/src/main/res/drawable-xhdpi/user.png"
+    },
+    {
+        "merged": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_user.png.flat",
+        "source": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/src/main/res/drawable-xxxhdpi/user.png"
+    },
+    {
+        "merged": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/build/intermediates/res/merged/debug/drawable-hdpi_bunga.png.flat",
+        "source": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/src/main/res/drawable-hdpi/bunga.png"
+    },
+    {
+        "merged": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/build/intermediates/res/merged/debug/drawable-xxhdpi_kacang.png.flat",
+        "source": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/src/main/res/drawable-xxhdpi/kacang.png"
+    },
+    {
+        "merged": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/build/intermediates/res/merged/debug/drawable-xxhdpi_jamur.png.flat",
+        "source": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/src/main/res/drawable-xxhdpi/jamur.png"
+    },
+    {
+        "merged": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/build/intermediates/res/merged/debug/drawable-xhdpi_jamur.png.flat",
+        "source": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/src/main/res/drawable-xhdpi/jamur.png"
+    },
+    {
+        "merged": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/build/intermediates/res/merged/debug/drawable-xhdpi_telur.png.flat",
+        "source": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/src/main/res/drawable-xhdpi/telur.png"
+    },
+    {
+        "merged": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_udang.png.flat",
+        "source": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/src/main/res/drawable-xxxhdpi/udang.png"
+    },
+    {
+        "merged": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/build/intermediates/res/merged/debug/drawable-hdpi_jamur.png.flat",
+        "source": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/src/main/res/drawable-hdpi/jamur.png"
+    },
+    {
+        "merged": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/build/intermediates/res/merged/debug/drawable-hdpi_keju.png.flat",
+        "source": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/src/main/res/drawable-hdpi/keju.png"
+    },
+    {
+        "merged": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/build/intermediates/res/merged/debug/drawable-xxhdpi_susu.png.flat",
+        "source": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/src/main/res/drawable-xxhdpi/susu.png"
+    },
+    {
+        "merged": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/build/intermediates/res/merged/debug/drawable-mdpi_jamur.png.flat",
+        "source": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/src/main/res/drawable-mdpi/jamur.png"
+    },
+    {
+        "merged": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/build/intermediates/res/merged/debug/drawable-xxhdpi_telur.png.flat",
+        "source": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/src/main/res/drawable-xxhdpi/telur.png"
+    },
+    {
+        "merged": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/build/intermediates/res/merged/debug/drawable-mdpi_jeruk.png.flat",
+        "source": "/media/ndong/DATA/PROJECT/ANDROID/SideNavigation/app/src/main/res/drawable-mdpi/jeruk.png"
+    }
+]

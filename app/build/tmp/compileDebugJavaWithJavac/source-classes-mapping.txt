@@ -1,0 +1,6 @@
+a/a/sidenavigation/MainActivity.java
+ a.a.sidenavigation.MainActivity
+ a.a.sidenavigation.MainActivity$1
+ a.a.sidenavigation.MainActivity$2
+a/a/sidenavigation/BuildConfig.java
+ a.a.sidenavigation.BuildConfig
