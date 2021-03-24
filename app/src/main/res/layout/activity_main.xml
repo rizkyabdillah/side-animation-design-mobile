@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:translationX="-280dp"
+        android:id="@+id/mainmenu"
+        android:layout_width="280dp"
+        android:orientation="vertical"
+        android:layout_height="match_parent"
+        android:background="@color/primaryDark">
+
+        <ImageView
+            android:id="@+id/userpict"
+            android:layout_width="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="70dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/user"
+            android:contentDescription="TODO" />
+
+        <TextView
+            android:id="@+id/user"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textStyle="normal"
+            android:gravity="center"
+            android:layout_marginTop="16dp"
+            android:textColor="@color/white"
+            android:text="Dinda Ayuni"/>
+
+        <TextView
+            android:id="@+id/country"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            android:textStyle="normal"
+            android:gravity="center"
+            android:layout_marginTop="4dp"
+            android:textColor="@color/white"
+            android:text="Indonesia"/>
+
+        <Button
+            android:id="@+id/exp"
+            android:text="Explore"
+            android:textAllCaps="false"
+            android:textStyle="normal"
+            android:textColor="@color/white"
+            android:textSize="16sp"
+            android:backgroundTintMode="add"
+            android:background="@drawable/bgbtnmenu"
+            android:layout_marginTop="40dp"
+            android:layout_marginStart="44dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <Button
+            android:id="@+id/ao"
+            android:text="AddOns"
+            android:textAllCaps="false"
+            android:textColor="@color/textSecondary"
+            android:textSize="16sp"
+            android:backgroundTintMode="add"
+            android:background="@drawable/bgbtnmenu"
+            android:layout_marginTop="5dp"
+            android:layout_marginStart="44dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <Button
+            android:id="@+id/msg"
+            android:text="Messages"
+            android:textAllCaps="false"
+            android:textStyle="normal"
+            android:textColor="@color/textSecondary"
+            android:textSize="16sp"
+            android:backgroundTintMode="add"
+            android:background="@drawable/bgbtnmenu"
+            android:layout_marginTop="5dp"
+            android:layout_marginStart="44dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <Button
+            android:id="@+id/st"
+            android:text="Settings"
+            android:textAllCaps="false"
+            android:textStyle="normal"
+            android:textColor="@color/textSecondary"
+            android:textSize="16sp"
+            android:backgroundTintMode="add"
+            android:background="@drawable/bgbtnmenu"
+            android:layout_marginTop="5dp"
+            android:layout_marginStart="44dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <Button
+            android:id="@+id/so"
+            android:text="Sign Out"
+            android:textAllCaps="false"
+            android:textStyle="normal"
+            android:textColor="@color/textSecondary"
+            android:textSize="16sp"
+            android:backgroundTintMode="add"
+            android:background="@drawable/bgbtnmenu"
+            android:layout_marginTop="55dp"
+            android:layout_marginStart="44dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+
+    </LinearLayout>
+
+    <RelativeLayout
+        android:translationX="-280dp"
+        android:id="@+id/maincontent"
+        android:layout_width="416dp"
+        android:layout_height="match_parent">
+
+       <ImageView
+           android:layout_width="50dp"
+           android:layout_height="50dp"
+           android:layout_margin="45dp"
+           android:id="@+id/btn_menu"
+           android:src="@drawable/user"/>
+
+       <TextView
+           android:id="@+id/user_home"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:layout_marginTop="45dp"
+           android:gravity="center"
+           android:layout_alignParentStart="true"
+           android:layout_alignParentTop="true"
+           android:text="Dinda Ayuni"
+           android:textColor="@color/textHome"
+           android:textSize="20sp"
+           android:textStyle="normal" />
+
+       <TextView
+           android:id="@+id/country_home"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:layout_marginTop="75dp"
+           android:gravity="center"
+           android:layout_alignParentStart="true"
+           android:layout_alignParentTop="true"
+           android:text="Indonesia"
+           android:textColor="@color/textHome"
+           android:textSize="16sp"
+           android:textStyle="normal" />
+
+       <TextView
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:layout_alignParentStart="true"
+           android:layout_alignParentTop="true"
+           android:layout_marginStart="45dp"
+           android:layout_marginTop="172dp"
+           android:gravity="start"
+           android:text="Solving your problem"
+           android:textColor="@color/textHome"
+           android:textSize="18sp"
+           android:textStyle="normal" />
+
+       <TextView
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:layout_alignParentStart="true"
+           android:layout_alignParentTop="true"
+           android:layout_marginStart="45dp"
+           android:layout_marginTop="132dp"
+           android:gravity="start"
+           android:text="Explore"
+           android:textColor="@color/textHome"
+           android:textSize="25sp"
+           android:textStyle="normal" />
+
+        <LinearLayout
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:orientation="horizontal"
+            android:id="@+id/baris1"
+           android:weightSum="3">
+
+           <LinearLayout
+               android:layout_width="0dp"
+               android:layout_height="wrap_content"
+               android:orientation="vertical"
+               android:layout_weight="1">
+
+               <ImageView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:layout_marginStart="30dp"
+                   android:layout_marginTop="225dp"
+                   android:layout_marginEnd="30dp"
+                   android:src="@drawable/bunga" />
+
+               <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:layout_gravity="center"
+                   android:text="Bunga"
+                   android:textColor="@color/textHome"
+                   android:textSize="16sp" />
+
+           </LinearLayout>
+
+           <LinearLayout
+               android:layout_width="0dp"
+               android:layout_height="wrap_content"
+               android:orientation="vertical"
+               android:layout_weight="1">
+
+               <ImageView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:layout_marginStart="30dp"
+                   android:layout_marginTop="225dp"
+                   android:layout_marginEnd="30dp"
+                   android:src="@drawable/jamur" />
+
+               <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:layout_gravity="center"
+                   android:text="Jamur"
+                   android:textColor="@color/textHome"
+                   android:textSize="16sp" />
+
+           </LinearLayout>
+
+           <LinearLayout
+               android:layout_width="0dp"
+               android:layout_height="wrap_content"
+               android:orientation="vertical"
+               android:layout_weight="1">
+
+               <ImageView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:layout_marginStart="30dp"
+                   android:layout_marginTop="225dp"
+                   android:layout_marginEnd="30dp"
+                   android:src="@drawable/jeruk" />
+
+               <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:layout_gravity="center"
+                   android:text="Jeruk"
+                   android:textColor="@color/textHome"
+                   android:textSize="16sp" />
+
+           </LinearLayout>
+
+       </LinearLayout>
+
+        <LinearLayout
+            android:layout_below="@+id/baris1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:weightSum="3">
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_weight="1">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="30dp"
+                    android:layout_marginEnd="30dp"
+                    android:src="@drawable/kacang" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:text="Kacang"
+                    android:textColor="@color/textHome"
+                    android:textSize="16sp" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+   </RelativeLayout>
+
+</LinearLayout>
